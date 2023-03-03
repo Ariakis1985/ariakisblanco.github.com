@@ -1,0 +1,30 @@
+.hello{
+    color:red;
+}
+
+.image{
+    width: 150px;
+    height: 100px;
+    border-radius: 12px;
+}
+
+.fondo-image{
+   text-align: center;
+}
+
+.body{
+    background-color: rgb(123, 230, 224);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.footer{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+}
